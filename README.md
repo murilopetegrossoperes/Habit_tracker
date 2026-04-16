@@ -38,7 +38,9 @@ npm run dev
 
 ## 🛠️ Comandos Disponíveis
 npm run dev: Inicia o ambiente de desenvolvimento.
+
 npm run build: Cria a versão de produção otimizada na pasta /dist.
+
 npm run preview: Testa o build de produção localmente.
 
 Desenvolvido por Murilo Técnico em Desenvolvimento de Sistemas | Graduando em Ciência e Tecnologia (UFABC) Focado em atuar como ponte entre as necessidades operacionais e soluções técnicas de alta performance.
